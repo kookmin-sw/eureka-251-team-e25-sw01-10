@@ -39,6 +39,7 @@ ESG(Errors spice the code, Growth flavors the soul)
 
 ## 2️⃣ 관심사 
 1.공통된 관심사 : 여행, 운동, 초심자
+
 2.특이한 관심사 : 커뮤니티 운영(GDG), 보안, 해외인턴, 클라이밍
 
 ***
