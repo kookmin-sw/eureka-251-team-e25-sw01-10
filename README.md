@@ -149,13 +149,16 @@ ESG(Errors spice the code, Growth flavors the soul)
 -드론 택시: 드론 택시가 개발된지는 꽤 됐으며, UAM이 전세계적으로 상용화될 것으로 보인다. 2040년 이후면 보편화 될 가능성이 높다<span style="color:red;" title="https://contents.premium.naver.com/jiphyunnet/knowledge/contents/250331222529557ac).
 ">2040년</span> 
 -드론 배달: 이미 사용하고 있지만 보편적이지 않다. 2040년<span style="color:red;" title="https://news.lginnotek.com/1189">2040년</span> 쯤엔 충분히 상용화 될 것이다
-[사례](https://godsend.kr/27, https://fkdb.or.kr/71/?bmode=view&idx=134719454
-)
+
+[사례](https://godsend.kr/27, https://fkdb.or.kr/71/?bmode=view&idx=134719454)
 -기계 신체: 기계 의수와 의족이 개발되어 몇년 후면 상용화 될 것 같다. 인체의 전기 신호를 읽고 AI로 분석하는 기술이 발전하면 2040년 이후엔 각종 신체 부위와 장기를 기계로 대체할 수 있을 것 같다.
+
 [사례]( https://m.dongascience.com/news.php?idx=47295)
+
 [사례](https://www.kunews.ac.kr/news/articleView.html?idxno=43344 )
 
 -로보 택시 : 향후 공중으로 다니는 로보택시도 상용화 기대.
+
 [사례](https://youtu.be/WOReUDutkpI)
 
 # 양자 컴퓨터 : 정보 순간이동
