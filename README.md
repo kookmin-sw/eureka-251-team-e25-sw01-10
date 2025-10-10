@@ -102,7 +102,7 @@ ESG(Errors spice the code, Growth flavors the soul)
  
    -드론택시, 드론 배달 : 공중을 이용한 이동 또한 보편화 될 것.
 
-3) 인공지능
+2) 인공지능
 
    -자율주행의 상용화
   
@@ -113,7 +113,7 @@ ESG(Errors spice the code, Growth flavors the soul)
  
    -인공지능을 이용한 학습 지도
 
-3)증강현실, 가상현실
+3) 증강현실, 가상현실
   
   -증강현실을 이용한 디스플레이스 : 온라인 쇼핑의 편의성 증가. 집에서도 상품을 3D로 관찰 가능
   
