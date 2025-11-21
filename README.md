@@ -233,6 +233,13 @@ ESG(Errors spice the code, Growth flavors the soul)
 # 멘토링  
   - 내 지도 교수 함게 만나기
   - 대학원 방문 및 선배 만나기
+    <object
+    data="https://github.com/kookmin-sw/eureka-251-team-e25-sw01-10/raw/main/대학원%20선배%20만나기.pdf"
+    type="application/pdf"
+    width="1000"
+    height="1000">
+</object>
+
 
 <object data="myfile.pdf" width="1000" height="1000" type='application/pdf'/>
 
