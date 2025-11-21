@@ -234,7 +234,7 @@ ESG(Errors spice the code, Growth flavors the soul)
   - 내 지도 교수 함게 만나기
   - 대학원 방문 및 선배 만나기
 
-
+<object data="myfile.pdf" width="1000" height="1000" type='application/pdf'/>
 
 
 <!-- 활동 사진 추가 예시 -->
