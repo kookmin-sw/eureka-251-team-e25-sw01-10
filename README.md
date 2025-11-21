@@ -233,6 +233,8 @@ ESG(Errors spice the code, Growth flavors the soul)
 # 멘토링  
   - 내 지도 교수 함게 만나기
   - 대학원 방문 및 선배 만나기
+
+    
 [대학원 선배 만나기.pdf](<sandbox:/mnt/data/대학원선배만나기.pdf>)
 
 
