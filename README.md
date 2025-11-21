@@ -234,7 +234,7 @@ ESG(Errors spice the code, Growth flavors the soul)
   - 내 지도 교수 함게 만나기
   - 대학원 방문 및 선배 만나기
     <object
-    data="대학원%20선배%20만나기.pdf"
+    data="대학원선배만나기.pdf"
     type="application/pdf"
     width="1000"
     height="1000">
